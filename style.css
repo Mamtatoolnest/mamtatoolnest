@@ -27,3 +27,15 @@ li {
     max-width: 350px;
     border-radius: 10px;
 }
+h1 {
+    font-size: 40px;
+}
+
+li:hover {
+    transform: scale(1.03);
+}
+
+li {
+    transition: 0.3s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
