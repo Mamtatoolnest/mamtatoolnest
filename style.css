@@ -39,3 +39,22 @@ li {
     transition: 0.3s;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    width: 120px;
+    border-radius: 20px;
+}
+
+header h1 {
+    margin-top: 10px;
+    color: #2563eb;
+}
+
+header p {
+    color: #666;
+    font-size: 18px;
+}
